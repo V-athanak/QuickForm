@@ -1,0 +1,2440 @@
+[
+  {
+    "id": "MED PT v1.0",
+    "name": "MED PT V1.0",
+    "fields": [
+      {
+        "key": "#tab-prescription-body tr:nth-of-type(1) input.medicine_name",
+        "value": "Dexoptic N Eye Drop",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(3) > select",
+        "value": "13",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(4) > select",
+        "value": "6",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(5) > input",
+        "value": "14",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(10) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(11) > select",
+        "value": "ampouls",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body tr:nth-of-type(2) input.medicine_name",
+        "value": "Tear eye drop",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(3) > select",
+        "value": "13",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(4) > select",
+        "value": "6",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(5) > input",
+        "value": "14",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(11) > select",
+        "value": "ampouls",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body tr:nth-of-type(3) input.medicine_name",
+        "value": "T mycin plus ointment",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(3) > select",
+        "value": "9",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(4) > select",
+        "value": "3",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(5) > input",
+        "value": "14",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(9) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(10) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(11) > select",
+        "value": "bottles",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr.tr-medicine.tr-data > td:nth-child(6) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr.tr-medicine.tr-data > td:nth-child(7) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr.tr-medicine.tr-data > td:nth-child(8) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr.tr-medicine.tr-data > td:nth-child(9) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(6) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(9) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(7) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(8) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(6) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(6) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(7) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(8) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr > td:nth-child(8) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(10) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(9) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "MED CAT 1st V1.0.1",
+    "name": "MED CAT 1st V1.0.1",
+    "fields": [
+      {
+        "key": "#tab-prescription-body tr:nth-of-type(1) input.medicine_name",
+        "value": "Aurofort (prednisolone 1%)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(3) > select",
+        "value": "13",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(4) > select",
+        "value": "6",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(5) > input",
+        "value": "14",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(10) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(11) > select",
+        "value": "ampouls",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(13) > textarea",
+        "value": "2 ម៉ោងម្ដង",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body tr:nth-of-type(2) input.medicine_name",
+        "value": "Aflacine eye drop ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(3) > select",
+        "value": "13",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(4) > select",
+        "value": "6",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(5) > input",
+        "value": "14",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(11) > select",
+        "value": "ampouls",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(13) > textarea",
+        "value": "2 ម៉ោងម្ដង",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body tr:nth-of-type(3) input.medicine_name",
+        "value": "T mycin plus ointment",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(3) > select",
+        "value": "9",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(4) > select",
+        "value": "3",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(5) > input",
+        "value": "14",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(2) > td:nth-child(10) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(9) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(11) > select",
+        "value": "bottles",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(10) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "Evaluation PT v1.0.2",
+    "name": "Evaluation PT v1.0.2 (3Lines)",
+    "fields": [
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(2) > input",
+        "value": "08:01",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(3) > input",
+        "value": "08:31",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(4) > input",
+        "value": "55",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(5) > input",
+        "value": "155",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(6) > input",
+        "value": "125/70",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(7) > input",
+        "value": "36.5",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(8) > input",
+        "value": "84",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(9) > input",
+        "value": "18",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(10) > input",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(11) > input",
+        "value": "91",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(2) > input",
+        "value": "08:02",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(3) > input",
+        "value": "08:32",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(4) > input",
+        "value": "55",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(5) > input",
+        "value": "155",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(6) > input",
+        "value": "120/70",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(7) > input",
+        "value": "36.2",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(8) > input",
+        "value": "82",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(9) > input",
+        "value": "19",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(10) > input",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(11) > input",
+        "value": "95",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA 6/9.5, IOP 12 mmHg, lid normal, conjunctiva: nasal pterygium with moderate injection, cornea: pterygium extending onto the nasal cornea, anterior chamber deep and quiet, lens clear.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Test xylocaine 2%(-)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(7) > input",
+        "value": "36.5",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(8) > input",
+        "value": "79",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(9) > input",
+        "value": "18",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(10) > input",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(11) > input",
+        "value": "90",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(2) > input",
+        "value": "08:03",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(3) > input",
+        "value": "08:33",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(4) > input",
+        "value": "55",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(5) > input",
+        "value": "155",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(6) > input",
+        "value": "123/73",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA 6/9.5, IOP 12 lid: mild swelling conjunctiva: moderate injection graft in place suture no loose cornea smooth harvest site: clean",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "Evaluation CAT v1.0.2",
+    "name": "Evaluation CAT v1.0.2 (3lines)",
+    "fields": [
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(2) > input",
+        "value": "08:01",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(3) > input",
+        "value": "08:31",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(4) > input",
+        "value": "55",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(5) > input",
+        "value": "155",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(6) > input",
+        "value": "125/70",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(7) > input",
+        "value": "36.5",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(8) > input",
+        "value": "84",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(9) > input",
+        "value": "18",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(10) > input",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(11) > input",
+        "value": "91",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(2) > input",
+        "value": "08:02",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(3) > input",
+        "value": "08:32",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(4) > input",
+        "value": "55",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(5) > input",
+        "value": "155",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(6) > input",
+        "value": "120/70",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(7) > input",
+        "value": "36.2",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(8) > input",
+        "value": "82",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(9) > input",
+        "value": "19",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(10) > input",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(11) > input",
+        "value": "95",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA 6/60, IOP 12 mmHg, lid normal, conjunctiva quiet, cornea clear, anterior chamber deep and quiet, lens: opacity",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(2) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Test xylocaine 2%(-)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(7) > input",
+        "value": "36.5",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(8) > input",
+        "value": "79",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(9) > input",
+        "value": "18",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(10) > input",
+        "value": "99",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(11) > input",
+        "value": "90",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(2) > input",
+        "value": "08:03",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(3) > input",
+        "value": "08:33",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(4) > input",
+        "value": "55",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(5) > input",
+        "value": "155",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(6) > input",
+        "value": "123/73",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA 6/9.5, IOP 12, lid: mild swelling, conjunctiva: moderate injection + chemosis, wound: sealed, AC forms, no fibrin, IOL stable in bag",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "Operative Report CAT V1.0",
+    "name": "Operative Report CAT V1.0",
+    "fields": [
+      {
+        "key": "#pre_diagnosis",
+        "value": "Age-related cataract",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#post_op_diagnosis",
+        "value": "(Z96.1) Pseudophakia",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#anethesia_type",
+        "value": "Local anesthesia",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#patient_position",
+        "value": "Supine",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#anesthesiologist",
+        "value": "Em ChanSothida",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#scrub_nurse",
+        "value": "Sloek Sreynet",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#start_time",
+        "value": "08:00",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#end_time",
+        "value": "08:30",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#wrap_element_operation_report > div.card-body > div:nth-child(2) > div:nth-child(1) > input",
+        "value": "E Phaco + IOL",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#wrap_element_operation_report > div.card-body > div:nth-child(3) > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Topical/local anesthesia → sterile preparation and draping → corneal main & side-port incisions → injection of viscoelastic (OVD) → continuous curvilinear capsulorhexis (CCC) → hydrodissection & hydrodelineation → phacoemulsification of lens nucleus → cortical aspiration (I/A) → capsular bag inflation with OVD → foldable IOL implantation → IOL positioning & centration → removal of residual OVD → hydration/sealing of corneal wounds → intracameral antibiotic (if indicated) → eye patch/shield.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "Operative Report PT V1.0",
+    "name": "Operative Report PT V1.0",
+    "fields": [
+      {
+        "key": "#pre_diagnosis",
+        "value": "Unspecified pterygium of unspecified eye",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#post_op_diagnosis",
+        "value": "Other specified postprocedural states",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#anethesia_type",
+        "value": "Local anesthesia",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#patient_position",
+        "value": "Supine",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#anesthesiologist",
+        "value": "Em ChanSothida",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#scrub_nurse",
+        "value": "Sloek Sreynet",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#start_time",
+        "value": "08:00",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#end_time",
+        "value": "08:30",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#wrap_element_operation_report > div.card-body > div:nth-child(2) > div:nth-child(1) > input",
+        "value": "E Pterygium Excision + Graft",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#wrap_element_operation_report > div.card-body > div:nth-child(3) > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Topical/local anesthesia → sterile preparation and draping → pterygium head dissection from the cornea → excision of pterygium body and Tenon's tissue → smoothing of corneal surface → measurement of bare scleral defect → harvesting conjunctival autograft → graft orientation and placement (limbus-to-limbus) → graft fixation (fibrin glue or sutures) → wound inspection and hemostasis → topical antibiotic/steroid → eye patch/shield.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "9aa550e1-698f-4887-a8fd-49f4c5fc8db3",
+    "name": "SOAP Pterygium",
+    "description": "",
+    "url": "",
+    "fields": [
+      {
+        "key": "#soap_subjective",
+        "value": "Redness, irritation, and a \"growth\" on the white of the eye\nHistory: Significant UV/sun exposure, wind, or dust. \nNo history of ocular trauma.\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_objective",
+        "value": "Conjunctiva: Triangular, vascularized wedge of conjunctival tissue extending from the nasal bulbar conjunctiva onto the cornea\nCornea: Pterygium apex extends 3mm past the limbus onto the cornea. No underlying infiltration or severe thinning.\nAnterior Chamber: Deep and quiet, no cell/flare.\nTear Film: Intermittent localized drying/staining at the advancing head of the pterygium",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_assessment",
+        "value": "Unspecified pterygium of eye, bilateral (H11.003)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_evaluation",
+        "value": "Return 3 to 6 months for monitoring, or sooner if rapid growth or vision changes occur",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_plan",
+        "value": "Protection: Strict UV protection counseling (wraparound sunglasses, wide-brimmed hats outdoors).\nLubrication: 4 times a day or as needed\nAnti-inflammatory Medication: To reduce the conjunctival inflammation\nMonitor progression of cornea encroachment \n\n\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "cb650634-4f5c-4f87-9f59-37c0e9edc306",
+    "name": "SOAP Pseudophakia",
+    "description": "",
+    "url": "",
+    "fields": [
+      {
+        "key": "#soap_subjective",
+        "value": "Patient complain of irritation and foreign body sensation after cataract surgery on both eye",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_objective",
+        "value": "\nConjunctiva: Mild injection\nCornea: Clear, no endothelial decompensation or surgical edema.\nAnterior Chamber: Deep and quiet, no \nIris: Round, reactive, no transillumination defects or synechiae\nLens (IOL): Pseudophakic. IOL is well-centered and stable within the capsular bag.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_assessment",
+        "value": "Presence of Intraocular Lens, Bilateral (Z96.1): Stable pseudophakia bilaterally, clear visual axis, well-positioned implants.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_evaluation",
+        "value": "Recheck visual acuity, posterior capsule status and Intraocular lens stability , and follow up 1 year for routine wellness, or PRN.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_plan",
+        "value": "Monitoring: Annual comprehensive eye examination to track IOL stability, capsular clarity, and long-term retinal health.\nPatient Education: Advise on symptoms of delayed complications, specifically PCO (gradual blur) and retinal detachment (flashes, showers of floaters, curtain over vision). Instruct to return immediately if noted.\nLubrication eye drop for dry eye related symptom\nMild steroid eye drop for mild inflammation\nFollow UP: 1 year for routine wellness, or PRN.\n\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "6af8346f-abf7-4e7f-b3ec-48819d23ae1c",
+    "name": "SOAP Conjunctivitis",
+    "description": "",
+    "url": "",
+    "fields": [
+      {
+        "key": "#soap_subjective",
+        "value": "Redness, discharge, and irritation in both eye\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_objective",
+        "value": "Lids/Lashes: Mild edema / Matte purulent discharge on lashes\nConjunctiva: Moderate bulbar and palpebral injection. Palpebral conjunctiva reveals Diffuse papillae. No pseudomembranes present.\nCornea: Clear, compact, negative fluorescein staining. No subepithelial infiltrates or dendrites.\nAnterior Chamber: Deep and quiet; no cell or flare.\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_assessment",
+        "value": "Acute Conjunctivitis (H10)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_evaluation",
+        "value": "Follow up 3 to 5 days if no improvement, or immediately if visual acuity drops, severe photophobia develops, or pain worsens.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_plan",
+        "value": "\nTherapeutics (Bacterial): use Ofloxacin 0.3% or Tobramycin 0.3% QID\nTopical steroid to hazen the recovery of the inflammation.\nSupportive care: artificial tears and cool compresses QID. \nStrict hygiene/handwashing education to prevent cross-contamination\nDiscontinuation: Suspend all contact lens wear and discard active lenses/cases if infectious.\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "2b4b240f-acfc-42b8-bb12-59e9ec3149d9",
+    "name": "SOAP Cataract",
+    "description": "",
+    "url": "",
+    "fields": [
+      {
+        "key": "#soap_subjective",
+        "value": "Gradual, progressive blurring of vision bilaterally for the past several months.\nPertinent History: No history of ocular trauma, prolonged topical steroid use, or poorly controlled diabetes. Intermittent outdoor UV exposure without protection.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_objective",
+        "value": "Refraction: Manifest shows a myopic shift (secondary to nuclear sclerosis).\nCornea: Clear, normal endothelial luster, no guttae.\nAnterior Chamber: Deep and quiet, no cell/flare.\nLens: dense Nuclear Sclerosis (NS) bilaterally.\nFundus (Dilated): Lens opacity limits view, but optic nerve appears intact with a C/D ratio of 0.5 Both eye. Macula flat, gross vasculature stable. No obvious peripheral pathology.\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_assessment",
+        "value": "Age-Related Nuclear Cataract, Bilateral (H25.13)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_evaluation",
+        "value": "Follow up for change in visual acuity, intraocular pressure, lens progression or when patient decide to undergo cataract surgery.",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#soap_plan",
+        "value": "Conservative Management: Updated spectacle prescription issued today to maximize current visual potential. \nSurgical Discussion: Discussed risks, benefits, and alternatives of phacoemulsification with IOL implantation.\n",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "PARACETAMOL v1.0",
+    "name": "PARACETAMOL v1.0",
+    "fields": [
+      {
+        "key": "medicine_name[]",
+        "value": "Paracetamol 500 mg",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(3) > select",
+        "value": "1",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(4) > select",
+        "value": "5",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(5) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(6) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(7) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(9) > input",
+        "value": "1",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(10) > input",
+        "value": "3",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(11) > select",
+        "value": "tablets",
+        "fieldType": "select",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(8) > input",
+        "value": "0",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#after_eat0",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "35a8ca95-efba-47db-90ea-187c492f3b6c",
+    "name": "RE Cataract snol",
+    "fields": [
+      {
+        "key": "cornea_re",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "cornea_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_re",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_le",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_re",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_le",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_re",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_le",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_re",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_le",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_re",
+        "value": "opacity ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_re_pressure",
+        "value": "12",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_le_pressure",
+        "value": "13",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_re",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_le",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_re",
+        "value": "no injection",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_le",
+        "value": "no injection",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_re",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_le",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_re",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_le",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "RE Blurred of vision",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No social history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No medical history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No family history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "GCS 15/15",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No pathological sound",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CRT <2s",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Peristalsis (+)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "urine output 2L/d, urine color: clear",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(6) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Local Anesthesia ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(8) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Mr. Bo",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(9) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "None",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA: 6/9, Lid no swelling, Conjunctiva mild injection, Wound no leak, Cornea clear, AC form, cell 2+, no fibrin, Pupil round, react to light, IOL stable inside the bag",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "1 week",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "RE Pseudophakia ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "annexe_re",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "annexe_le",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Inf-oph, Aflacin, T mycin plus oinment ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "55d6e304-59ab-4e6c-a6c2-2649a7900898",
+    "name": "Phaco",
+    "fields": [
+      {
+        "key": "15oph-Viscoelastic",
+        "value": "HPMC",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-Irrigation_solution",
+        "value": "Lactate Ringer",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-Phaco_setting",
+        "value": "continuous",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-Power",
+        "value": "35%",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-flowrate",
+        "value": "35ml/min",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-v_a_c",
+        "value": "500mmHg",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-flow_rate",
+        "value": "35ml/min",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-vac",
+        "value": "500mmHg",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-site",
+        "value": "Superiotemporal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-zie",
+        "value": "2.8",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-capsulorhexis",
+        "value": "5.5",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-Scrub",
+        "value": "Mr. Bo",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "15oph-Retrobulbar_Peribulbar",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Peritomy_no_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-cornea_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Capsular_Polishing_yes",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-bag",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-sutur_no",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-dexa_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-genta_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Pilocapine2_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Vigamox_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Maxidrol_oint_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Complication_no_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "15oph-Anterior_vitrectomy_no_check",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      }
+    ]
+  },
+  {
+    "id": "788d5ba8-ae0b-4199-890e-e55d17b46679",
+    "name": "LE Cataract snol",
+    "fields": [
+      {
+        "key": "cornea_re",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "cornea_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_re",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_le",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_re",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_le",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_re",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_le",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_re",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_le",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_re",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_le",
+        "value": "opacity",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_re_pressure",
+        "value": "12",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_le_pressure",
+        "value": "13",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_re",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_le",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_re",
+        "value": "no injection",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_le",
+        "value": "no injection",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_re",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_le",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_re",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_le",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "LE Blurred of vision",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No social history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No medical history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No family history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "GCS 15/15",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No pathological sound",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CRT <2s",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Peristalsis (+)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "urine output 2L/d, urine color: clear",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(6) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Local Anesthesia ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(8) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Mr. Bo",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(9) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "None",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA: 6/9, Lid no swelling, Conjunctiva mild injection, Wound no leak, Cornea clear, AC form, cell 2+, no fibrin, Pupil round, react to light, IOL stable inside the bag",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "1 week",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "LE Pseudophakia ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "annexe_re",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "annexe_le",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Inf-oph, Aflacin, T mycin plus oinment ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "82136db3-6f59-46a2-97ae-d6bf30a074cd",
+    "name": "RE PT snol",
+    "fields": [
+      {
+        "key": "cornea_re",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "cornea_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_re",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_le",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_re",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_le",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_re",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_le",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_re",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_le",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_re",
+        "value": "clear",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_re_pressure",
+        "value": "12",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_le_pressure",
+        "value": "13",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_re",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_le",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_re",
+        "value": "pterygium grade 2",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_le",
+        "value": "no injection",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_re",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_le",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_re",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_le",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "RE irritation and tearing",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No social history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No medical history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No family history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "GCS 15/15",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No pathological sound",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CRT <2s",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Peristalsis (+)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "urine output 2L/d, urine color: clear",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(6) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Local Anesthesia ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(8) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Mr. Bo",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(9) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "None",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA 6/9.5, IOP 12, lid: mild swelling, conjunctiva: moderate injection, graft in place, suture no loose, cornea smooth, harvest site: clean",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "1 week",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "RE Pterygium excision",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "annexe_re",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "annexe_le",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "dexoptic N, T mycin plus ointment",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "3884b3bf-6947-47f5-a78c-ac9bd751913f",
+    "name": "LE PT snol",
+    "fields": [
+      {
+        "key": "cornea_re",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "cornea_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_re",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "ac_le",
+        "value": "deep and quiet",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_re",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "pupil_le",
+        "value": "round and react to light",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_re",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "angle_le",
+        "value": "open",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_re",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iris_le",
+        "value": "flat",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_re",
+        "value": "clear",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "len_le",
+        "value": "clear ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_re_pressure",
+        "value": "12",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "iop_le_pressure",
+        "value": "13",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_re",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eyelid_le",
+        "value": "no swelling",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_re",
+        "value": "no injection",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "conjunctiva_le",
+        "value": "pterygium grade 2",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_re",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "nld_le",
+        "value": "permeable ",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_re",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "eom_le",
+        "value": "full",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "LE irritation and tearing",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No social history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No medical history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No family history",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "GCS 15/15",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "No pathological sound",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CRT <2s",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Peristalsis (+)",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "urine output 2L/d, urine color: clear",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(6) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Local Anesthesia ",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(8) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Mr. Bo",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(9) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "None",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "VA 6/9.5, IOP 12, lid: mild swelling, conjunctiva: moderate injection, graft in place, suture no loose, cornea smooth, harvest site: clean",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(4) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "1 week",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(9) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "Better",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "LE Pterygium excision",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "annexe_re",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "annexe_le",
+        "value": "normal",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "#oph-form > div:nth-child(7) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "dexoptic N, T mycin plus ointment",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
+        "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
+        "value": "CDR: 0.3, Macula: good reflect, Retina: flat",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      }
+    ]
+  },
+  {
+    "id": "f3fe16a7-e387-4170-96bc-0c6211e0d503",
+    "name": "Surgical Patient Medical Records",
+    "fields": [
+      {
+        "key": "come_self_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "less_two_hours_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "no_have_pregnant_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "other_surgeries_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "major_surgery_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "programmable_surgery_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "completed_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "local_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "duration_surgery_day",
+        "value": "2",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "duration_surgery_mn",
+        "value": "20",
+        "fieldType": "text",
+        "searchType": "name"
+      },
+      {
+        "key": "heal_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      },
+      {
+        "key": "other_chk",
+        "value": "true",
+        "fieldType": "radio",
+        "searchType": "id"
+      }
+    ]
+  }
+]
