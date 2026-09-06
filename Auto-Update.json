@@ -336,8 +336,8 @@
     ]
   },
   {
-    "id": "Evaluation PT",
-    "name": "Evaluation PT",
+    "id": "Evaluation PTx",
+    "name": "Evaluation PTx",
     "fields": [
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(2) > input",
@@ -461,7 +461,7 @@
       },
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/9.5, IOP 12 mmHg, lid normal, conjunctiva: nasal pterygium with moderate injection, cornea: pterygium extending onto the nasal cornea, anterior chamber deep and quiet, lens clear.",
+        "value": "VA 6/9.5\nIOP 12 mmHg\nlid normal, conjunctiva: nasal pterygium with moderate injection, cornea: pterygium extending onto the nasal cornea, anterior chamber deep and quiet, lens clear.",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
