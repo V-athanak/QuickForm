@@ -1,7 +1,7 @@
 [
   {
-    "id": "MED PT v1.0",
-    "name": "MED PT V1.0",
+    "id": "MED PT",
+    "name": "MED PT",
     "fields": [
       {
         "key": "#tab-prescription-body tr:nth-of-type(1) input.medicine_name",
@@ -204,8 +204,8 @@
     ]
   },
   {
-    "id": "MED CAT 1st V1.0.1",
-    "name": "MED CAT 1st V1.0.1",
+    "id": "MED CAT",
+    "name": "MED CAT",
     "fields": [
       {
         "key": "#tab-prescription-body tr:nth-of-type(1) input.medicine_name",
@@ -336,8 +336,8 @@
     ]
   },
   {
-    "id": "Evaluation PT v1.0.2",
-    "name": "Evaluation PT v1.0.2 (3Lines)",
+    "id": "Evaluation PT",
+    "name": "Evaluation PT",
     "fields": [
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(2) > input",
@@ -540,8 +540,8 @@
     ]
   },
   {
-    "id": "Evaluation CAT v1.0.2",
-    "name": "Evaluation CAT v1.0.2 (3lines)",
+    "id": "Evaluation CAT",
+    "name": "Evaluation CAT",
     "fields": [
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(2) > input",
@@ -744,8 +744,8 @@
     ]
   },
   {
-    "id": "Operative Report CAT V1.0",
-    "name": "Operative Report CAT V1.0",
+    "id": "Operative Report CAT",
+    "name": "Operative Report CAT",
     "fields": [
       {
         "key": "#pre_diagnosis",
@@ -810,8 +810,8 @@
     ]
   },
   {
-    "id": "Operative Report PT V1.0",
-    "name": "Operative Report PT V1.0",
+    "id": "Operative Report PT",
+    "name": "Operative Report PT",
     "fields": [
       {
         "key": "#pre_diagnosis",
@@ -1028,8 +1028,8 @@
     ]
   },
   {
-    "id": "PARACETAMOL v1.0",
-    "name": "PARACETAMOL v1.0",
+    "id": "PARACETAMOL",
+    "name": "PARACETAMOL",
     "fields": [
       {
         "key": "medicine_name[]",
