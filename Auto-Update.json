@@ -1028,8 +1028,8 @@
     ]
   },
   {
-    "id": "PARACETAMOL",
-    "name": "PARACETAMOL",
+    "id": "MED Para",
+    "name": "MED Para",
     "fields": [
       {
         "key": "medicine_name[]",
