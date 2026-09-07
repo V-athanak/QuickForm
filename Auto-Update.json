@@ -1101,7 +1101,7 @@
   },
   {
     "id": "35a8ca95-efba-47db-90ea-187c492f3b6c",
-    "name": "RE Cataract snol",
+    "name": "1. SNOL CAT Right Eye",
     "fields": [
       {
         "key": "cornea_re",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": "788d5ba8-ae0b-4199-890e-e55d17b46679",
-    "name": "LE Cataract snol",
+    "name": "1. SNOL CAT Left Eye",
     "fields": [
       {
         "key": "cornea_re",
@@ -1797,7 +1797,7 @@
   },
   {
     "id": "82136db3-6f59-46a2-97ae-d6bf30a074cd",
-    "name": "RE PT snol",
+    "name": "1. SNOL PT Right Eye",
     "fields": [
       {
         "key": "cornea_re",
@@ -2067,7 +2067,7 @@
   },
   {
     "id": "3884b3bf-6947-47f5-a78c-ac9bd751913f",
-    "name": "LE PT snol",
+    "name": "1. SNOL PT Left Eye",
     "fields": [
       {
         "key": "cornea_re",
