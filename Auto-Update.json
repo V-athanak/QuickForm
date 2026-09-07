@@ -876,7 +876,7 @@
     ]
   },
   {
-    "id": "9aa550e1-698f-4887-a8fd-49f4c5fc8db3",
+    "id": "SOAP Pterygium",
     "name": "SOAP Pterygium",
     "description": "",
     "url": "",
@@ -914,7 +914,7 @@
     ]
   },
   {
-    "id": "cb650634-4f5c-4f87-9f59-37c0e9edc306",
+    "id": "SOAP Pseudophakia",
     "name": "SOAP Pseudophakia",
     "description": "",
     "url": "",
@@ -990,7 +990,7 @@
     ]
   },
   {
-    "id": "2b4b240f-acfc-42b8-bb12-59e9ec3149d9",
+    "id": "SOAP Cataract",
     "name": "SOAP Cataract",
     "description": "",
     "url": "",
@@ -1100,8 +1100,8 @@
     ]
   },
   {
-    "id": "35a8ca95-efba-47db-90ea-187c492f3b6c",
-    "name": "1. SNOL CAT Right Eye",
+    "id": "1",
+    "name": "SNOL RE CAT",
     "fields": [
       {
         "key": "cornea_re",
@@ -1370,7 +1370,7 @@
     ]
   },
   {
-    "id": "55d6e304-59ab-4e6c-a6c2-2649a7900898",
+    "id": "Phaco",
     "name": "Phaco",
     "fields": [
       {
@@ -1526,8 +1526,8 @@
     ]
   },
   {
-    "id": "788d5ba8-ae0b-4199-890e-e55d17b46679",
-    "name": "1. SNOL CAT Left Eye",
+    "id": "2",
+    "name": "SNOL LE CAT",
     "fields": [
       {
         "key": "cornea_re",
@@ -1796,8 +1796,8 @@
     ]
   },
   {
-    "id": "82136db3-6f59-46a2-97ae-d6bf30a074cd",
-    "name": "1. SNOL PT Right Eye",
+    "id": "3",
+    "name": "SNOL RE PT",
     "fields": [
       {
         "key": "cornea_re",
@@ -2066,8 +2066,8 @@
     ]
   },
   {
-    "id": "3884b3bf-6947-47f5-a78c-ac9bd751913f",
-    "name": "1. SNOL PT Left Eye",
+    "id": "4",
+    "name": "SNOL LE PT",
     "fields": [
       {
         "key": "cornea_re",
@@ -2336,7 +2336,7 @@
     ]
   },
   {
-    "id": "f3fe16a7-e387-4170-96bc-0c6211e0d503",
+    "id": "Surgical Patient Medical Records",
     "name": "Surgical Patient Medical Records",
     "fields": [
       {
