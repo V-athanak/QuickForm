@@ -199,7 +199,7 @@
         "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(10) > input",
         "value": "1",
         "fieldType": "text",
-        "searchType": "cssSelector"
+        "searchType": "cssSelector",
         "force": true
       },
       {
