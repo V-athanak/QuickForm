@@ -2,7 +2,6 @@
   {
     "id": "MED PT",
     "name": "MED PT",
-    "force": true,
     "fields": [
       {
         "key": "#note_all",
@@ -201,6 +200,7 @@
         "value": "1",
         "fieldType": "text",
         "searchType": "cssSelector"
+        "force": true
       },
       {
         "key": "#tab-prescription-body > tr:nth-child(1) > td:nth-child(9) > input",
@@ -213,7 +213,6 @@
   {
     "id": "MED CAT",
     "name": "MED CAT",
-    "force": true,
     "fields": [
       {
         "key": "#note_all",
@@ -345,7 +344,8 @@
         "key": "#tab-prescription-body > tr:nth-child(3) > td:nth-child(10) > input",
         "value": "1",
         "fieldType": "text",
-        "searchType": "cssSelector"
+        "searchType": "cssSelector",
+        "force": true
       }
     ]
   },
