@@ -461,7 +461,7 @@
       },
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/9.5<br>IOP 12 mmHg<br>lid normal<br>conjunctiva: nasal pterygium with moderate injection<br>cornea: pterygium extending onto the nasal cornea<br>anterior chamber deep and quiet<br>lens clear.",
+        "value": "Visual Acuity 6/9.5<br>IOP 12 mmHg<br>lid normal<br>conjunctiva: nasal pterygium with moderate injection<br>cornea: pterygium extending onto the nasal cornea<br>anterior chamber deep and quiet<br>lens clear.",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -533,7 +533,7 @@
       },
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection<br>graft in place<br>suture no loose<br>cornea smooth<br>harvest site: clean",
+        "value": "Visual Acuity 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection<br>graft in place<br>suture no loose<br>cornea smooth<br>harvest site: clean",
         "fieldType": "text",
         "searchType": "cssSelector"
       }
@@ -665,7 +665,7 @@
       },
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(1) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/60<br>IOP 12 mmHg<br>lid normal<br>conjunctiva quiet<br>cornea clear<br>anterior chamber deep and quiet<br>lens: opacity",
+        "value": "Visual Acuity 6/60<br>IOP 12 mmHg<br>lid normal<br>conjunctiva quiet<br>cornea clear<br>anterior chamber deep and quiet<br>lens: opacity",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -737,7 +737,7 @@
       },
       {
         "key": "#tab-tr-append-evolution > tbody > tr:nth-child(3) > td:nth-child(12) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection + chemosis<br>wound: sealed<br>AC forms<br>no fibrin<br>IOL stable in bag",
+        "value": "Visual Acuity 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection + chemosis<br>wound: sealed<br>Anterior Chamber: forms<br>no fibrin<br>Intraocular Lens stable in bag",
         "fieldType": "text",
         "searchType": "cssSelector"
       }
@@ -797,13 +797,13 @@
       },
       {
         "key": "#wrap_element_operation_report > div.card-body > div:nth-child(2) > div:nth-child(1) > input",
-        "value": "E Phaco + IOL",
+        "value": "E Phacoemulsification + Intraocular Lens",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
       {
         "key": "#wrap_element_operation_report > div.card-body > div:nth-child(3) > div > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Topical/local anesthesia → sterile preparation and draping → corneal main & side-port incisions → injection of viscoelastic (OVD) → continuous curvilinear capsulorhexis (CCC) → hydrodissection & hydrodelineation → phacoemulsification of lens nucleus → cortical aspiration (I/A) → capsular bag inflation with OVD → foldable IOL implantation → IOL positioning & centration → removal of residual OVD → hydration/sealing of corneal wounds → intracameral antibiotic (if indicated) → eye patch/shield.",
+        "value": "Topical/local anesthesia → sterile preparation and draping → corneal main & side-port incisions → injection of viscoelastic (OVD) → continuous curvilinear capsulorhexis (CCC) → hydrodissection & hydrodelineation → phacoemulsification of lens nucleus → cortical aspiration (I/A) → capsular bag inflation with OVD → foldable Intraocular Lens implantation → Intraocular Lens positioning & centration → removal of residual OVD → hydration/sealing of corneal wounds → intracameral antibiotic (if indicated) → eye patch/shield.",
         "fieldType": "text",
         "searchType": "cssSelector"
       }
@@ -1237,7 +1237,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "RE Blurred of vision",
+        "value": "Right Eye Blurred of vision",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1261,7 +1261,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "GCS 15/15",
+        "value": "Glasgow Coma Scale 15/15",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1273,7 +1273,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CRT <2s",
+        "value": "Normal capillary refill time",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1285,7 +1285,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Urine output 2L/d<br>Urine color: clear",
+        "value": "Urine output: 2 liters per day<br>Urine color: clear",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1309,7 +1309,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA: 6/9<br>Lid no swelling<br>Conjunctiva mild injection<br>Wound no leak<br>Cornea clear<br>AC form<br>cell 2+<br>no fibrin<br>Pupil round reactive to light<br>IOL stable inside the bag",
+        "value": "Visual Acuity: 6/9<br>Lid no swelling<br>Conjunctiva mild injection<br>Wound no leak<br>Cornea clear<br>Anterior Chamber: forms<br>cell 2+<br>no fibrin<br>Pupil round reactive to light<br>Intraocular Lens stable inside the bag",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1333,13 +1333,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Better",
-        "fieldType": "text",
-        "searchType": "cssSelector"
-      },
-      {
-        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "RE Pseudophakia ",
+        "value": "Right Eye Pseudophakia (Z96.1)",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1357,13 +1351,13 @@
       },
       {
         "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CDR: 0.3<br>Macula: good reflect<br>Retina: flat",
+        "value": "Cup-to-disc ratio: 0.3<br>Macula: good reflect<br>Retina: flat",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
       {
         "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CDR: 0.3<br>Macula: good reflect<br>Retina: flat",
+        "value": "Cup-to-disc ratio: 0.3<br>Macula: good reflect<br>Retina: flat",
         "fieldType": "text",
         "searchType": "cssSelector"
       }
@@ -1663,7 +1657,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "LE Blurred of vision",
+        "value": "Left Eye Blurred of vision",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1687,7 +1681,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "GCS 15/15",
+        "value": "Glasgow Coma Scale 15/15",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1699,7 +1693,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CRT <2s",
+        "value": "Normal capillary refill time",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1711,7 +1705,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Urine output 2L/d<br>Urine color: clear",
+        "value": "Urine output: 2 liters per day<br>Urine color: clear",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1735,7 +1729,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA: 6/9<br>Lid no swelling<br>Conjunctiva mild injection<br>Wound no leak<br>Cornea clear<br>AC form<br>cell 2+<br>no fibrin<br>Pupil round<br>react to light<br>IOL stable inside the bag",
+        "value": "Visual Acuity: 6/9<br>Lid no swelling<br>Conjunctiva mild injection<br>Wound no leak<br>Cornea clear<br>Anterior Chamber: forms<br>cell 2+<br>no fibrin<br>Pupil round<br>react to light<br>Intraocular Lens stable inside the bag",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1759,13 +1753,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Better",
-        "fieldType": "text",
-        "searchType": "cssSelector"
-      },
-      {
-        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "LE Pseudophakia ",
+        "value": "Left Eye Pseudophakia (Z96.1)",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1783,13 +1771,13 @@
       },
       {
         "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CDR: 0.3<br>Macula: good reflect<br>Retina: flat",
+        "value": "Cup-to-disc ratio: 0.3<br>Macula: good reflect<br>Retina: flat",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
       {
         "key": "#oph-form > div:nth-child(4) > div > div > div.card-body > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CDR: 0.3<br>Macula: good reflect<br>Retina: flat",
+        "value": "Cup-to-disc ratio: 0.3<br>Macula: good reflect<br>Retina: flat",
         "fieldType": "text",
         "searchType": "cssSelector"
       }
@@ -1933,7 +1921,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "RE irritation and tearing",
+        "value": "Right Eye irritation and tearing",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1957,7 +1945,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "GCS 15/15",
+        "value": "Glasgow Coma Scale 15/15",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1969,7 +1957,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CRT <2s",
+        "value": "Normal capillary refill time",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -1981,7 +1969,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Urine output 2L/d<br>Urine color: clear",
+        "value": "Urine output: 2 liters per day<br>Urine color: clear",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2005,7 +1993,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection<br>graft in place<br>suture no loose<br>cornea smooth<br>harvest site: clean",
+        "value": "Visual Acuity 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection<br>graft in place<br>suture no loose<br>cornea smooth<br>harvest site: clean",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2029,13 +2017,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Better",
-        "fieldType": "text",
-        "searchType": "cssSelector"
-      },
-      {
-        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "RE Pterygium excision",
+        "value": "Right Eye Pterygium excision (Z98.89)",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2203,7 +2185,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(3) > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "LE irritation and tearing",
+        "value": "Left Eye irritation and tearing",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2227,7 +2209,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(1) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "GCS 15/15",
+        "value": "Glasgow Coma Scale 15/15",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2239,7 +2221,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div:nth-child(3) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "CRT <2s",
+        "value": "Normal capillary refill time",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2251,7 +2233,7 @@
       },
       {
         "key": "#oph-form > div.row.mt-1 > div > div > div.card-body > div > div.col-sm-12.form-group > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "urine output 2L/d, urine color: clear",
+        "value": "Urine output: 2 liters per day<br>Urine color: clear",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2275,7 +2257,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(8) > div > div > div.card-body > div > div > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "VA 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection<br>graft in place<br>suture no loose<br>cornea smooth<br>harvest site: clean",
+        "value": "Visual Acuity 6/9.5<br>IOP 12<br>lid: mild swelling<br>conjunctiva: moderate injection<br>graft in place<br>suture no loose<br>cornea smooth<br>harvest site: clean",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
@@ -2299,13 +2281,7 @@
       },
       {
         "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "Better",
-        "fieldType": "text",
-        "searchType": "cssSelector"
-      },
-      {
-        "key": "#oph-form > div:nth-child(10) > div > div > div.card-body > div > div:nth-child(2) > div > div.note-editing-area > div.note-editable.card-block",
-        "value": "LE Pterygium excision",
+        "value": "Left Eye Pterygium excision (Z98.89)",
         "fieldType": "text",
         "searchType": "cssSelector"
       },
