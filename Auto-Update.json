@@ -2,6 +2,7 @@
   {
     "id": "MED PT",
     "name": "MED PT",
+    "force": true,
     "fields": [
       {
         "key": "#note_all",
@@ -212,6 +213,7 @@
   {
     "id": "MED CAT",
     "name": "MED CAT",
+    "force": true,
     "fields": [
       {
         "key": "#note_all",
