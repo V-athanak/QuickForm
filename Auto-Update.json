@@ -4,6 +4,12 @@
     "name": "MED PT",
     "fields": [
       {
+        "key": "#note_all",
+        "value": "តមមិនអោយត្រូវទឹកមួយខែ​ និង​ ប្រេីថ្នាំតាមវេជ្ជបញ្ជា",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
+      {
         "key": "#tab-prescription-body tr:nth-of-type(1) input.medicine_name",
         "value": "Dexoptic N Eye Drop",
         "fieldType": "text",
@@ -207,6 +213,12 @@
     "id": "MED CAT",
     "name": "MED CAT",
     "fields": [
+      {
+        "key": "#note_all",
+        "value": "តមមិនអោយត្រូវទឹកមួយខែ​ និង​ ប្រេីថ្នាំតាមវេជ្ជបញ្ជា",
+        "fieldType": "text",
+        "searchType": "cssSelector"
+      },
       {
         "key": "#tab-prescription-body tr:nth-of-type(1) input.medicine_name",
         "value": "Aurofort (prednisolone 1%)",
